@@ -1,46 +1,93 @@
+## 🇷🇴 Versiunea în română
+
 # Harta Interactivă a Informaticii 🧠💻
 
-Acest proiect oferă o **hartă interactivă a informaticii**, concepută pentru a explora domeniile și activitățile principale ale acestui vast câmp de cunoaștere, organizate pe mai multe niveluri de profunzime.
+Acest proiect oferă o **hartă interactivă a informaticii**, concepută pentru a explora domeniile și activitățile principale ale acestui vast subiect, organizate pe mai multe niveluri de profunzime.  
+> **Notă:** Acest proiect a fost realizat exclusiv în scop academic și educațional, ca parte a activităților universitare. Utilizarea sa este destinată doar acestui context și nu are scop comercial.
 
-## 🎓 Scop Educațional
+### 🎓 Scop Educațional  
+Acest proiect are un **scop educativ** și a fost realizat ca parte a unei lucrări în mediul academic. Aplicația este destinată înțelegerii structurii generale a informaticii într-un mod accesibil și vizual.
 
-Acest proiect are un **scop educativ** și a fost realizat ca parte a unei lucrări pentru facultate. Aplicația este destinată înțelegerii structurii generale a informaticii într-un mod accesibil și vizual, fiind utilă atât pentru studenți, cât și pentru oricine dorește să exploreze acest domeniu.
+### 🔍 Descriere  
+Scopul principal este de a furniza o aplicație intuitivă care să ajute utilizatorii — elevi, studenți sau profesioniști — să înțeleagă mai bine legăturile dintre ramurile informaticii.  
+*Aplicația este scrisă în Python și poate fi rulată pe Windows, macOS și Linux fără a necesita Visual Studio Code.*
 
-## 🔍 Descriere
+Permite:
+- Navigarea prin domenii ca programare, baze de date, inteligență artificială, rețele etc.
+- Explorarea subdomeniilor specifice fiecărui nivel
+- Utilizare **offline**, fără instalări suplimentare
 
-Scopul principal este de a furniza o aplicație intuitivă care să ajute utilizatorii — fie ei elevi, studenți sau profesioniști — să înțeleagă mai bine legăturile dintre ramurile informaticii.
+### 📁 Structura Repository-ului
+- `Harta_informaticii.pdf` — Documentația proiectului  
+- `cod/` — Codul sursă (fără imagini)  
+- `HartaInformaticii.exe` — Aplicația executabilă
 
-Aplicația permite:
-- Navigarea prin domenii precum programare, baze de date, inteligență artificială, rețele etc.
-- Explorarea subdomeniilor și a activităților specifice fiecărui nivel
-- Utilizarea aplicației în mod **offline**, fără instalare suplimentară
+### 🚀 Utilizare
+1. Clonează sau descarcă repository-ul (fișierul `.exe` este suficient).  
+2. Rulează `HartaInformaticii.exe` (pe Windows).  
+3. Explorează și învață vizual.
 
-## 📁 Structura Repository-ului
+> **Notă:** Nu este necesară conexiune la internet sau instalare.
 
-- `doc/` — Documentația proiectului
-- `src/` — Fișierele sursă ale aplicației (fără imagini)
-- `HartaInformatica.exe` — Fișierul executabil al aplicației (utilizabil de sine stătător după descărcare)
+### 👥 Contribuitori
+- Alessia Marin – documentație & desen  
+- Alexandra-Sofia Csizmadia – coordonare, desen, documentație  
+- Alexandru Turculeț – documentație  
+- Bianca-Mădălina Bădescu – documentație  
+- Bogdan-Petru Mitoiu – documentație  
+- Flavius-Andrei Neamu – documentație  
+- Georgiana Andreea Cronț – desen  
+- Isabella-Mariana Nicorescu – desen  
+- Maria Cinăzan – documentație  
+- Mihai Robert Șerban – documentație  
+- Raul Daniel Macovei – documentație  
+- Ștefana Ivanik – desen  
+- Vlad Crăciunescu – documentație
 
-## 🚀 Utilizare
+---
 
-1. Clonează sau descarcă repository-ul.
-2. Rulează fișierul `HartaInformatica.exe` pe sistemul tău (Windows).
-3. Explorează harta interactivă și învață într-un mod vizual și logic.
+## 🇬🇧 English Version
 
-> **Notă:** Pentru rularea aplicației nu este nevoie de conexiune la internet sau de instalare suplimentară.
+# Interactive Map of Computer Science 🧠💻
 
-## 👥 Contribuitori
+This project provides an **interactive map of computer science**, designed to explore its main areas and activities, organized across multiple depth levels.  
+> **Note:** This project was developed exclusively for academic and educational purposes as part of university coursework. It is intended only for this context and has no commercial purpose.
 
-- Nume Prenume — dezvoltare aplicație, structură logică
-- Nume Prenume — design interfață, organizare conținut
-- Nume Prenume — documentație, testare
+### 🎓 Educational Purpose  
+This project was created as part of an academic assignment. It aims to help users understand the general structure of computer science in a visual and accessible way.
 
-> Dacă ai contribuit și nu apari în listă, te rugăm să deschizi un Pull Request!
+### 🔍 Description  
+The main goal is to provide an intuitive application that helps users — students, learners, or professionals — better understand the connections between computer science branches.  
+*The app is written in Python and can run on Windows, macOS, and Linux without requiring Visual Studio Code.*
 
-## 📜 Licență
+It allows:
+- Navigation through areas such as programming, databases, AI, networks, etc.
+- Exploration of specific subdomains at each level
+- **Offline use**, with no additional installation
 
-Acest proiect este distribuit sub licență [NumeLicență] — vezi fișierul `LICENSE` pentru mai multe detalii.
+### 📁 Repository Structure
+- `Harta_informaticii.pdf` — Project documentation  
+- `cod/` — Source code (no images)  
+- `HartaInformaticii.exe` — Standalone executable
 
-## 🤝 Contribuții
+### 🚀 Usage
+1. Clone or download the repository (`.exe` file is enough).  
+2. Run `HartaInformaticii.exe` (on Windows).  
+3. Explore the map and learn visually.
 
-Contribuțiile sunt binevenite! Pentru sugestii sau raportarea problemelor, te rugăm să folosești secțiunea de [Issues](../../issues).
+> **Note:** No internet connection or installation is needed.
+
+### 👥 Contributors
+- Alessia Marin – documentation & illustration  
+- Alexandra-Sofia Csizmadia – coordination, illustration, documentation  
+- Alexandru Turculeț – documentation  
+- Bianca-Mădălina Bădescu – documentation  
+- Bogdan-Petru Mitoiu – documentation  
+- Flavius-Andrei Neamu – documentation  
+- Georgiana Andreea Cronț – illustration  
+- Isabella-Mariana Nicorescu – illustration  
+- Maria Cinăzan – documentation  
+- Mihai Robert Șerban – documentation  
+- Raul Daniel Macovei – documentation  
+- Ștefana Ivanik – illustration  
+- Vlad Crăciunescu – documentation
