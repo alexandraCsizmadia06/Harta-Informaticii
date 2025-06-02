@@ -30,8 +30,8 @@ Permite:
 > **Notă:** Nu este necesară conexiune la internet sau instalare.
 
 ### 👥 Contribuitori
-- Alessia Marin – documentație & desen  
-- Alexandra-Sofia Csizmadia – coordonare, desen, documentație  
+- Alessia Diana Marin – documentație & desen  
+- Alexandra-Sofia Csizmadia – coordonare, desen, documentație, implementare  
 - Alexandru Turculeț – documentație  
 - Bianca-Mădălina Bădescu – documentație  
 - Bogdan-Petru Mitoiu – documentație  
@@ -78,8 +78,8 @@ It allows:
 > **Note:** No internet connection or installation is needed.
 
 ### 👥 Contributors
-- Alessia Marin – documentation & illustration  
-- Alexandra-Sofia Csizmadia – coordination, illustration, documentation  
+- Alessia Diana Marin – documentation & illustration  
+- Alexandra-Sofia Csizmadia – coordination, illustration, documentation, programming  
 - Alexandru Turculeț – documentation  
 - Bianca-Mădălina Bădescu – documentation  
 - Bogdan-Petru Mitoiu – documentation  
