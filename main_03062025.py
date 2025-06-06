@@ -1131,8 +1131,8 @@ class MapExplorer:
         # Textul tutorialului
         tutorial_text = (
             "\t \t MAP EXPLORER\n\n"
-            "Bun venit la MAP EXPLORER! Aceasta aplictaie este o reprezentare vizuala a informaticii, asa cum au vazut-o membrii echipei de dezvoltare a acestei aplicatii.\n"
-            "\nAveti in vedere faptul ca scopul acestei aplicatii este unl strict educativ.\n\n"
+            "Bun venit la MAP EXPLORER! Aceasta aplicatie este o reprezentare vizuala a informaticii, asa cum au vazut-o membrii echipei de dezvoltare a acestei aplicatii.\n"
+            "\nAveti in vedere faptul ca scopul acestei aplicatii este unul strict educativ.\n\n"
             " Cum sa folosesti aplicatia Map Explorer\n\n"
             "1️ Navigare pe harta:\n   - Click pe o tara pentru a intra.\n   - Click pe o regiune pentru detalii.\n   - Click pe o cladire pentru zoom.\n\n"
             "2️ Butoane disponibile:\n   - `Back` → Revine la nivelul anterior.\n   - `Home` → Te intoarce la harta principala.\n   - `Exit` → inchide aplicatia.\n   - `Help` → Afiseaza acest tutorial.\n\n"
