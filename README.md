@@ -20,7 +20,7 @@ Permite:
 ### 📁 Structura Repository-ului
 - `Harta_informaticii.pdf` — Documentația proiectului  
 - `cod/` — Codul sursă (fără imagini)  
-- [`HartaInformaticii.exe`](https://drive.google.com/file/d/1C6xdQMSDK51EUP8bMKcEemdWzY0LSW4T/view?usp=sharing) — Aplicația executabilă
+- [`HartaInformaticii.exe`](https://drive.google.com/file/d/16CECaMrwe1bG0PH7G4cCIi70iC5G5QC-/view?usp=sharing) — Aplicația executabilă
 
 ### 🚀 Utilizare
 1. Clonează sau descarcă repository-ul (fișierul `.exe` este suficient).  
@@ -68,7 +68,7 @@ It allows:
 ### 📁 Repository Structure
 - `Harta_informaticii.pdf` — Project documentation  
 - `cod/` — Source code (no images)  
-- [`HartaInformaticii.exe`](https://drive.google.com/file/d/1C6xdQMSDK51EUP8bMKcEemdWzY0LSW4T/view?usp=sharing) — Standalone executable
+- [`HartaInformaticii.exe`](https://drive.google.com/file/d/16CECaMrwe1bG0PH7G4cCIi70iC5G5QC-/view?usp=sharing) — Standalone executable
 
 ### 🚀 Usage
 1. Clone or download the repository (`.exe` file is enough).  
